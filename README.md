@@ -2,7 +2,7 @@
 
 A modern, responsive homepage for a fictional IELTS Institute built with React.js and Tailwind CSS.
 
-## 🚀 Features
+## Features
 
 - **Modern Design**: Clean, professional interface with smooth animations
 - **Fully Responsive**: Optimized for desktop, tablet, and mobile devices
@@ -10,7 +10,7 @@ A modern, responsive homepage for a fictional IELTS Institute built with React.j
 - **Tailwind CSS**: Utility-first CSS framework for rapid styling
 - **Interactive Elements**: Hover effects, smooth scrolling, and animated components
 
-## 📋 Sections Included
+##  Sections Included
 
 1. **Navigation Bar**: Logo with responsive menu and smooth scroll
 2. **Hero Section**: Compelling headline with call-to-action and hero image
@@ -18,14 +18,14 @@ A modern, responsive homepage for a fictional IELTS Institute built with React.j
 4. **Student Testimonials**: 3 authentic student reviews with ratings
 5. **Footer**: Contact information and social media links
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **React.js** (18.2.0) - Frontend framework
 - **Tailwind CSS** (3.3.2) - Styling framework
 - **Font Awesome** - Icons
 - **Google Fonts** - Typography (Inter font family)
 
-## 📦 Installation & Setup
+##  Installation & Setup
 
 1. **Clone or download the project**
    ```bash
@@ -47,7 +47,7 @@ A modern, responsive homepage for a fictional IELTS Institute built with React.j
    http://localhost:3000
    ```
 
-## 🎨 Design Choices
+##  Design Choices
 
 ### Color Scheme
 - **Primary Blue** (#0055a4): Professional and trustworthy
@@ -70,13 +70,13 @@ A modern, responsive homepage for a fictional IELTS Institute built with React.j
 - **Visual Hierarchy**: Clear content organization and typography scales
 - **Accessibility**: Semantic HTML and proper contrast ratios
 
-## 📱 Responsive Breakpoints
+##  Responsive Breakpoints
 
 - **Mobile**: < 768px
 - **Tablet**: 768px - 1024px
 - **Desktop**: > 1024px
 
-## 🔧 Build Commands
+##  Build Commands
 
 ```bash
 # Development server
@@ -89,7 +89,7 @@ npm run build
 npm test
 ```
 
-## 📝 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -105,7 +105,7 @@ src/
 └── index.js
 ```
 
-## 🌟 Key Highlights
+##  Key Highlights
 
 - **Clean Code**: Well-organized, commented, and maintainable
 - **Performance**: Optimized images and efficient rendering
@@ -115,7 +115,7 @@ src/
 ---
 
 **Developed by**: Balusu Sri Naga Amrutha 
-**Time Invested**: ~8 hours  
+**Time Invested**: ~6 hours  
 **Completion Date**: October 2, 2025
 
 ## Development Process
@@ -123,5 +123,6 @@ src/
 I started by researching modern education website designs and created wireframes for each section. The color palette was chosen to convey trust and professionalism while maintaining visual appeal. I focused on mobile-first development and tested extensively across different screen sizes.
 
 The most challenging part was implementing the smooth scrolling navigation and ensuring the testimonial cards had the right visual hierarchy. I'm particularly proud of the hover effects and the responsive navigation system.
+
 
 This project demonstrates my understanding of modern React development practices, component-based architecture, and responsive design principles.
